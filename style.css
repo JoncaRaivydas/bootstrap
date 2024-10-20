@@ -1,0 +1,19 @@
+header{
+    background-image:url(./header.jpg) ;
+    height: 25vh;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+    padding-top: 4%;
+    margin-bottom: 20px;
+}
+#FlexButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+figure, img, article{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
